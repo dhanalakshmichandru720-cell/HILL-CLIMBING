@@ -106,6 +106,7 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 ```
 ## Output
+
 <img width="1197" height="739" alt="image" src="https://github.com/user-attachments/assets/42d4f861-74dd-4be8-88ad-cda8a5a36402" />
 
 ## Result
